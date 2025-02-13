@@ -2,5 +2,5 @@
 
 Olá Atualmente estou aprendendo linguagem JS na One bite code!
 Tenho 28 Anos, Nunca trabalhei na area de técnologia.
-Trabalhar neste Ramo sempre foi um sonho, e estou correndo atrás!
+Trabalhar neste Ramo sempre foi um sonho, e estou correndo atrás deste SONHO!
 
